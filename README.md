@@ -37,7 +37,3 @@
 <p align=center>(macOS only)</span>
 
 <br/>
-<br/>
-<br/>
-
-<i>Disclaimer: I am not affiliated with KEXP other than as a long-time listener and grateful [amplifier](https://www.kexp.org/donor-lounge/ways-give/make-recurring-monthly-donation-amplifiers-club/).</i>
